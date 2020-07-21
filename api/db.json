@@ -1,0 +1,124 @@
+{
+    "roominfo": [
+        {
+            "name": "Chip Fried",
+            "userId": "1992322113542",
+            "address": "Telepathy path of science",
+            "room": 101,
+            "phone": "0911111112",
+            "status": "OD",
+            "floor": 1,
+            "id": 1
+        },
+        {
+            "name": "",
+            "userId": "",
+            "address": "",
+            "room": 102,
+            "phone": "",
+            "status": "VC",
+            "floor": 1,
+            "id": 2
+        },
+        {
+            "name": "Test",
+            "userId": "1235524512321",
+            "address": "SASSD",
+            "room": 103,
+            "phone": "1112",
+            "status": "OD",
+            "floor": 1,
+            "id": 3
+        },
+        {
+            "name": "",
+            "userId": "",
+            "address": "",
+            "room": 104,
+            "phone": "",
+            "status": "VC",
+            "floor": 1,
+            "id": 4
+        },
+        {
+            "name": "Oreo Choop Pang Tord",
+            "userId": "1909999889909",
+            "address": "Oreo Joom Nom Mai Sai Kai",
+            "room": 105,
+            "phone": "021234567",
+            "status": "OD",
+            "floor": 1,
+            "id": 5
+        },
+        {
+            "name": "Kanom Bueng",
+            "userId": "1981928374663",
+            "address": "Potato Smashhhhhhhh shu",
+            "room": 201,
+            "phone": "0988887777",
+            "status": "OD",
+            "floor": 2,
+            "id": 6
+        },
+        {
+            "name": "",
+            "userId": "",
+            "address": "",
+            "room": 202,
+            "phone": "",
+            "status": "VC",
+            "floor": 2,
+            "id": 7
+        },
+        {
+            "name": "",
+            "userId": "",
+            "address": "",
+            "room": 203,
+            "phone": "",
+            "status": "VC",
+            "floor": 2,
+            "id": 8
+        },
+        {
+            "name": "Pepsi Man",
+            "userId": "19098007777777",
+            "address": "Pepsi VS Coke man",
+            "room": 204,
+            "phone": "112",
+            "status": "OD",
+            "floor": 2,
+            "id": 9
+        },
+        {
+            "name": "Big TOO Much",
+            "userId": "9999999999999",
+            "address": "Rao Jar Tum Tarm San Ya Koh Ve Ra Eek Narn Narn",
+            "room": 301,
+            "phone": "191",
+            "status": "OD",
+            "floor": 3,
+            "id": 10
+        },
+        {
+            "name": "",
+            "userId": "",
+            "address": "",
+            "room": 302,
+            "phone": "",
+            "status": "VC",
+            "floor": 3,
+            "id": 11
+        },
+        {
+            "name": "",
+            "userId": "",
+            "address": "",
+            "room": 303,
+            "phone": "",
+            "status": "VC",
+            "floor": 3,
+            "id": 12
+        }
+    ]
+  }
